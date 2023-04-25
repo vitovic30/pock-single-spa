@@ -1,0 +1,3 @@
+[submodule "pock-single-spa-root-application"]
+	path = pock-single-spa-root-application
+	url = https://github.com/vitovic30/pock-single-spa-root
