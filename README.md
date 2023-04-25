@@ -4,6 +4,9 @@
 # Start aplicações em VUE usando o seguinte comando.
 `npm run serve:standalone`
 
+# Start na aplicação ROOT.
+`npm start`
+
 # Start aplicação em ANGULAR usando o seguinte comando.
 `npm start`
 
